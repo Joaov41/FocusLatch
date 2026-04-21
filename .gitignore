@@ -2,6 +2,8 @@
 .build/
 build/
 dist/
+/release/
+/FocusLatch.app
 Packages/
 xcuserdata/
 DerivedData/
