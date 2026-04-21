@@ -18,7 +18,11 @@ swift build
 ./scripts/build-app.sh
 ```
 
-The packaged app bundle is created at `dist/FocusLatch.app`.
+The packaged app bundle is created at `dist/Focus Latch.app`.
+
+## Download
+
+A notarized macOS app is included as the GitHub release download asset `FocusLatch-0.1.0-macos.zip`.
 
 ## Notes
 
